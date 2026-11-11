@@ -54,23 +54,22 @@ Three business-focused queries were developed:
 
 ## Repository Structure
 
-```text
-Healthcare-Patient-Records-Analytics/
-│
-├── README.md
-│
-├── 01_Business_Requirements/
-│   └── Healthcare Requirements.docx
-│
-├── 02_Data_Modeling/
-│   ├── Data Model.png
-│   └── Data Modeling Table Queries.sql
-│
-└── 03_Database_Implementation/
-    ├── Healthcare Patient Records Management System.docx
-    ├── healthcare_analytics_queries.sql
-    └── medical_records.csv
-```text
+    Healthcare-Patient-Records-Analytics/
+    │
+    ├── README.md
+    │
+    ├── 01_Business_Requirements/
+    │   └── Healthcare Requirements.docx
+    │
+    ├── 02_Data_Modeling/
+    │   ├── Data Model.png
+    │   └── Data Modeling Table Queries.sql
+    │
+    └── 03_Database_Implementation/
+        ├── Healthcare Patient Records Management System.docx
+        ├── healthcare_analytics_queries.sql
+        └── medical_records.csv
+
 ## Project Deliverables
 
 - Business Requirements
