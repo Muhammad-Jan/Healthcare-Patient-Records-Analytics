@@ -70,7 +70,7 @@ Healthcare-Patient-Records-Analytics/
     ├── Healthcare Patient Records Management System.docx
     ├── healthcare_analytics_queries.sql
     └── medical_records.csv
-
+```text
 ## Project Deliverables
 
 - Business Requirements
